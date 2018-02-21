@@ -1,4 +1,4 @@
-# Docker environment and tools to build kernel for rk30xx based devices
+# Docker environment and tools to debootstrap root filesystem for rk30xx based devices
 
 ## Setup
 

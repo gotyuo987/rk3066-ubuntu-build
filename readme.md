@@ -8,4 +8,6 @@ go to [kernel build instruction](kernel)
 
 go to [root filesystem build instruction](rootfs)
 
-## Flashing device (WIP)
+## Flashing device
+
+go to [flashing](flash)
