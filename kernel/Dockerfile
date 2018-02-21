@@ -24,7 +24,6 @@ RUN mv android_prebuilt_toolchains-master toolchains && \
     mv rk30_linux_initramfs-master initramfs && \
     mv rk3x_kernel_3.0.36-master rk3x_kernel_3.0.36
 
-
 WORKDIR /src/rk3066/initramfs
 RUN gzip -dc debian-3.0.8+fkubi.cpio.gz > initramfs.cpio
 

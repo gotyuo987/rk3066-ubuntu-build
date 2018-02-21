@@ -4,7 +4,7 @@
 
 go to [kernel build instruction](kernel)
 
-## Root filesystem (WIP)
+## Root filesystem
 
 go to [root filesystem build instruction](rootfs)
 
